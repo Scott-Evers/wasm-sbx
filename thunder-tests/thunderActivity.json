@@ -1,0 +1,21 @@
+[
+  {
+    "_id": "e15c1631-23b6-4be9-804b-7ccc93aa3013",
+    "colId": "history",
+    "containerId": "",
+    "name": "localhost:3000/object",
+    "url": "localhost:3000/object",
+    "method": "POST",
+    "sortNum": 0,
+    "created": "2022-12-27T17:33:28.300Z",
+    "modified": "2022-12-27T17:33:55.338Z",
+    "headers": [],
+    "params": [],
+    "body": {
+      "type": "json",
+      "raw": "{\"object\": \"something cooler\"}",
+      "form": []
+    },
+    "tests": []
+  }
+]
